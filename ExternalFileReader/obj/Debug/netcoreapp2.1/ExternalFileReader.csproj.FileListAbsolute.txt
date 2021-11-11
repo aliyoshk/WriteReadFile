@@ -1,0 +1,11 @@
+C:\Users\IZOOHCOM\source\repos\ExternalFileReader\ExternalFileReader\bin\Debug\netcoreapp2.1\ExternalFileReader.deps.json
+C:\Users\IZOOHCOM\source\repos\ExternalFileReader\ExternalFileReader\bin\Debug\netcoreapp2.1\ExternalFileReader.runtimeconfig.json
+C:\Users\IZOOHCOM\source\repos\ExternalFileReader\ExternalFileReader\bin\Debug\netcoreapp2.1\ExternalFileReader.runtimeconfig.dev.json
+C:\Users\IZOOHCOM\source\repos\ExternalFileReader\ExternalFileReader\bin\Debug\netcoreapp2.1\ExternalFileReader.dll
+C:\Users\IZOOHCOM\source\repos\ExternalFileReader\ExternalFileReader\bin\Debug\netcoreapp2.1\ExternalFileReader.pdb
+C:\Users\IZOOHCOM\source\repos\ExternalFileReader\ExternalFileReader\obj\Debug\netcoreapp2.1\ExternalFileReader.csprojAssemblyReference.cache
+C:\Users\IZOOHCOM\source\repos\ExternalFileReader\ExternalFileReader\obj\Debug\netcoreapp2.1\ExternalFileReader.csproj.CoreCompileInputs.cache
+C:\Users\IZOOHCOM\source\repos\ExternalFileReader\ExternalFileReader\obj\Debug\netcoreapp2.1\ExternalFileReader.AssemblyInfoInputs.cache
+C:\Users\IZOOHCOM\source\repos\ExternalFileReader\ExternalFileReader\obj\Debug\netcoreapp2.1\ExternalFileReader.AssemblyInfo.cs
+C:\Users\IZOOHCOM\source\repos\ExternalFileReader\ExternalFileReader\obj\Debug\netcoreapp2.1\ExternalFileReader.dll
+C:\Users\IZOOHCOM\source\repos\ExternalFileReader\ExternalFileReader\obj\Debug\netcoreapp2.1\ExternalFileReader.pdb
